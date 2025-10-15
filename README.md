@@ -27,6 +27,7 @@ End the program
 
 
 ## Output:
-![alt text](image.png)
+<img width="1295" height="762" alt="Screenshot 2025-10-15 161601" src="https://github.com/user-attachments/assets/d32b260d-033c-4bcf-a24f-48f5e0e054f9" />
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
